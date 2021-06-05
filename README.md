@@ -1,1 +1,1 @@
-My perosnal homepage created using the "academicpages/acemadicpages.github.io" and minimal jekyll theme.
+My perosnal homepage repository created using the "https://github.com/academicpages/academicpages.github.io" and minimal jekyll theme.
