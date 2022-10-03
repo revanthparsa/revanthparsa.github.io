@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Business Analyst at [Dhurin - Banglore](https://dhurin.in/). 
+I am currently working as a Business Analyst at [Dhurin](https://dhurin.in/) in Banglore. 
 
 I did my master's in Artificial Intelligence at the [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). I did my  Masters Thesis Project (MTP) under the supervision of [Dr. Anand Mishra](https://anandmishra22.github.io/). 
 
