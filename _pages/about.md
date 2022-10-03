@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.Tech 2nd yearite doing master's in Artificial Intelligence at the [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). I am doing my Masters Thesis Project (MTP) under the supervision of [Dr. Anand Mishra](https://anandmishra22.github.io/). 
+I am currently working as a Business Analyst at [Dhurin - Banglore](https://dhurin.in/). 
+
+I did my master's in Artificial Intelligence at the [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). I did my  Masters Thesis Project (MTP) under the supervision of [Dr. Anand Mishra](https://anandmishra22.github.io/). 
 
 I completed my Bachelors’ degree in Electronics & Communication Engineering from [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/) in 2019.
