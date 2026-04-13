@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Revanth Parsa"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Revanth Parsa"
 description              : &description "personal description"
